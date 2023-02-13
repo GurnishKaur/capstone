@@ -1,3 +1,5 @@
+# this is crazy bank
+
 import random
 print("Welcome to Crazy Bank")
 print("Select the choice")
